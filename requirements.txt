@@ -1,0 +1,15 @@
+# tested with mne 1.13.2, mne-bids 0.20.0, himalaya 0.4.11, nilearn 0.14.1
+# torch is left out on purpose, Colab already has it and the code runs on numpy without it
+mne>=1.8
+mne-bids>=0.16
+himalaya>=0.4.6
+nilearn>=0.12
+h5py
+numpy
+scipy
+pandas
+scikit-learn
+statsmodels
+matplotlib
+nbconvert
+ipykernel
