@@ -10,6 +10,7 @@ scipy
 pandas
 scikit-learn
 statsmodels
+wordfreq>=3.0
 matplotlib
 nbconvert
 ipykernel
